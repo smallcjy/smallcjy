@@ -1,8 +1,4 @@
 ### Hi I'm Smallcjy 👋
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smallcjy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -23,6 +19,16 @@
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smallcjy&theme=cobalt2&show_icons=true&card_width=495px)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=smallcjy&show_icons=true&theme=tokyonight)  
 
+<p align="center">
+<!--贪吃蛇-->
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/smallcjy/smallcjy/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/smallcjy/smallcjy/blob/output/github-contribution-grid-snake.svg">
+</picture> -->
+  
+<!--正常contribution graph-->
+<img src="https://ghchart.rshah.org/1037827920" width=850/>
+</p>
 
 ## 🌎 Find me  
 - email:<a href="mailto:2628035541@qq.com">2628035541@qq.com</a>:e-mail:
