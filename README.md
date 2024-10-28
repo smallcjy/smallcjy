@@ -16,8 +16,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smallcjy&theme=cobalt2&show_icons=true&card_width=495px)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=smallcjy&show_icons=true&theme=tokyonight)  
+
+<div style="display: flex;">
+    <div style="width: 50%;"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smallcjy&theme=cobalt2&show_icons=true&card_width=495px"></div>
+    <div style="width: 50%;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=smallcjy&show_icons=true&theme=tokyonight"></div>
+</div>
+ 
 
 <p align="center">
 <!--贪吃蛇-->
@@ -27,7 +31,7 @@
 </picture> -->
   
 <!--正常contribution graph-->
-<img src="https://ghchart.rshah.org/1037827920" width=850/>
+<img src="https://ghchart.rshah.org/smallcjy" width=850/>
 </p>
 
 ## 🌎 Find me  
