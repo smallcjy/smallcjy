@@ -17,10 +17,11 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
 
-<div style="display: flex;">
-    <div style="width: 50%;"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smallcjy&theme=cobalt2&show_icons=true&card_width=495px"></div>
-    <div style="width: 50%;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=smallcjy&show_icons=true&theme=tokyonight"></div>
-</div>
+<p align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smallcjy&theme=cobalt2&show_icons=true&card_width=495px">
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smallcjy&show_icons=true&theme=tokyonight">
+</p>
  
 
 <p align="center">
