@@ -37,11 +37,5 @@
 
 ## 🌎 Find me  
 - email:<a href="mailto:2628035541@qq.com">2628035541@qq.com</a>:e-mail:
-- blog: click [[SmallCBlog](https://smallc.top/)]
-## 🚀 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [lo网卡注册系统卡滞漏洞分析及其解决](https://www.smallc.top/2024/07/12/lo%E7%BD%91%E5%8D%A1%E6%B3%A8%E5%86%8C%E7%B3%BB%E7%BB%9F%E5%8D%A1%E6%BB%9E%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3/)
-<!-- BLOG-POST-LIST:END -->
+- blog: click [[SmallCBlog](https://smallcjy.gihub.io/)]
 
-## 🌎 Visitors
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
