@@ -37,5 +37,5 @@
 
 ## 🌎 Find me  
 - email:<a href="mailto:2628035541@qq.com">2628035541@qq.com</a>:e-mail:
-- blog: click [[SmallCBlog](https://smallcjy.gihub.io/)]
+- blog: click [[SmallCBlog](https://smallcjy.github.io/)]
 
