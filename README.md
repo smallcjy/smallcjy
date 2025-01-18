@@ -21,7 +21,10 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smallcjy&theme=cobalt2&show_icons=true&card_width=495px">
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=smallcjy&show_icons=true&theme=tokyonight">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?smallcjy=welives)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=smallcjy&theme=merko&layout=compact&langs_count=8"/>
 </p>
  
 
