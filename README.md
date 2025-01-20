@@ -22,7 +22,7 @@
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=smallcjy&show_icons=true&theme=tokyonight"> -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=smallcjy&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=smallcjy&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=last_year" />
 </p>
 
  
